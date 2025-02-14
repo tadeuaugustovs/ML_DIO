@@ -201,7 +201,7 @@ model_new.summary()
 print(x_train.shape)
 print(x_val.shape)
 
-"""Bora treinar essa máquina veia"""
+"""Treinando a IA"""
 
 history2 = model_new.fit(x_train, y_train,
                          batch_size=128,
@@ -232,7 +232,7 @@ loss, accuracy = model_new.evaluate(x_test, y_test, verbose=0)
 print('Test loss:', loss)
 print('Test accuracy:', accuracy)
 
-"""Botei esse aqui só de charme"""
+"""Plotando os gráficos iniciais"""
 
 # Plotando a perda durante o treino e validação
 plt.figure(figsize=(12, 6))
@@ -256,7 +256,7 @@ plt.legend()
 plt.grid(True)
 plt.show()
 
-"""Para provar que está funcionando:"""
+"""Para mostrar que está funcionando:"""
 
 # Carrega a imagem
 img, x = get_image('/content/novo/meggie.jpg')
