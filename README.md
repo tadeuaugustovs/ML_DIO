@@ -73,7 +73,7 @@ projetos_ia/
 Desenvolvido por **Tadeu Augusto Vilela da Silva**  
 📧 tadeuaugustovs@gmail.com  
 📍 Vitória, ES – Brasil  
-🔗 [LinkedIn](https://www.linkedin.com/in/tadeuaugustovs) | [GitHub](https://github.com/tadeuaugustovs)
+🔗 [LinkedIn](https://www.linkedin.com/in/tadeuaugustovs) 
 
 ---
 
@@ -82,7 +82,3 @@ Desenvolvido por **Tadeu Augusto Vilela da Silva**
 Este repositório está aberto a sugestões e melhorias. Fique à vontade para abrir uma issue ou um pull request!
 
 ---
-
-## 📜 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
