@@ -1,7 +1,7 @@
 
 # 🤖 Projetos de Machine Learning | DIO - Machine Learning Specialist
 
-Bem-vindo ao meu repositório de projetos desenvolvidos durante o bootcamp **Machine Learning Specialist** da [Digital Innovation One (DIO)](https://www.dio.me/). Aqui você encontrará soluções práticas utilizando bibliotecas populares de Machine Learning em Python, como **Scikit-learn**, **Pandas**, **Matplotlib**, **XGBoost**, entre outras.
+Bem-vindo ao meu repositório de projetos desenvolvidos durante o bootcamp **Machine Learning Specialist** da Digital Innovation One (DIO). Aqui você encontrará soluções práticas utilizando bibliotecas populares de Machine Learning em Python, como **Scikit-learn**, **Pandas**, **Matplotlib**, **XGBoost**, entre outras.
 
 ---
 
