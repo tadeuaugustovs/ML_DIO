@@ -73,7 +73,7 @@ projetos_ia/
 Desenvolvido por **Tadeu Augusto Vilela da Silva**  
 📧 tadeuaugustovs@gmail.com  
 📍 Vitória, ES – Brasil  
-🔗 [LinkedIn](https://linkedin.com/tadeuaugustovs) 
+🔗 LinkedIn: https://linkedin.com/tadeuaugustovs
 
 ---
 
