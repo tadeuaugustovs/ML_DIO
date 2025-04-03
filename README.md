@@ -10,9 +10,7 @@ Bem-vindo ao meu repositório de projetos desenvolvidos durante o bootcamp **Mac
 ML_DIO/
 ├── Assistente_virtual/
 │   ├── speech-text.py
-│   ├── requirements.txt
 │   ├── text_speechipynb.ipynb
-│   └── voice.mp3
 │
 ├── Deep Learning/ Projeto DIO/
 │   └── projeto_deep_learning.ipynb
