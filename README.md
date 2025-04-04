@@ -12,8 +12,8 @@ ML_DIO/
 │   ├── speech-text.py
 │   ├── text_speechipynb.ipynb
 │
-├── Deep Learning/ Projeto DIO/
-│   └── projeto_deep_learning.ipynb
+├── Transfer_Learning/
+│   └── transfer_learning.ipynb
 │
 ├── Reconhecimento_Facial/
 │   └── reconhecimento_facial.ipynb
@@ -42,9 +42,9 @@ ML_DIO/
 - **Funcionalidades**: Conversão de fala em texto e texto em fala, comandos por voz para YouTube, Wikipédia, piadas, hora atual, música local e esvaziar a lixeira.
 - **Observação**: O arquivo `text_speechipynb.ipynb` deve ser executado no Google Colab por utilizar comandos `!pip install`.
 
-### 📌 Projeto de Deep Learning
-- **Objetivo**: Implementar uma rede neural profunda para tarefas de classificação.
-- **Técnicas**: Redes neurais com TensorFlow/Keras, avaliação de performance.
+### 📌 Transfer Learning
+- **Objetivo**: Aplicar técnicas de aprendizado por transferência com modelos pré-treinados para classificação de imagens.
+- **Técnicas**: Fine-tuning de modelos como VGG16, ResNet ou MobileNet utilizando TensorFlow/Keras.
 
 ### 📌 Reconhecimento Facial
 - **Objetivo**: Identificar e reconhecer rostos a partir de imagens ou vídeos.
@@ -91,7 +91,6 @@ Desenvolvido por **Tadeu Augusto Vilela da Silva**
 📍 Serra, ES – Brasil  
 🔗 LinkedIn: [https://linkedin.com/in/tadeu-augusto](https://www.linkedin.com/in/tadeu-augusto/)
 
----
 
 ## 🌟 Contribuição
 
