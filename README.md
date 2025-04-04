@@ -88,7 +88,7 @@ ML_DIO/
 
 Desenvolvido por **Tadeu Augusto Vilela da Silva**  
 📧 tadeuaugustovs@gmail.com  
-📍 Vitória, ES – Brasil  
+📍 Serra, ES – Brasil  
 🔗 LinkedIn: [https://linkedin.com/in/tadeu-augusto](https://www.linkedin.com/in/tadeu-augusto/)
 
 ---
