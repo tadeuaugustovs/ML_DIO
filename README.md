@@ -39,8 +39,8 @@ ML_DIO/
 
 ### 📌 Assistente Virtual com Python
 - **Objetivo**: Criar um sistema de assistência virtual com reconhecimento e síntese de voz.
-- **Funcionalidades**: Conversão de fala em texto e texto em fala, comandos por voz para YouTube, Wikipédia, piadas, hora atual, música local e esvaziar a lixeira.
-- **Observação**: O arquivo `text_speechipynb.ipynb` deve ser executado no Google Colab por utilizar comandos `!pip install`.
+- **Funcionalidades**: Conversão de fala em texto e texto em fala e comandos por voz.
+
 
 ### 📌 Transfer Learning
 - **Objetivo**: Aplicar técnicas de aprendizado por transferência com modelos pré-treinados para classificação de imagens.
@@ -84,9 +84,7 @@ ML_DIO/
 
 ---
 
-## 👨‍💻 Autor
-
-Desenvolvido por **Tadeu Augusto Vilela da Silva**  
+👨‍💻 Desenvolvido por **Tadeu Augusto Vilela da Silva**  
 📧 tadeuaugustovs@gmail.com  
 📍 Serra, ES – Brasil  
 🔗 LinkedIn: [https://linkedin.com/in/tadeu-augusto](https://www.linkedin.com/in/tadeu-augusto/)
