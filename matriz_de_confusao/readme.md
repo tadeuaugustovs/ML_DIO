@@ -24,49 +24,37 @@ Demonstrar como construir e interpretar uma matriz de confusão em Python, utili
 1. **Importação das Bibliotecas Necessárias**:
    - `pandas` para manipulação de dados.
    - `numpy` para operações numéricas.
-   - `seaborn` e `matplotlib.pyplot` para visualização de dados.
-   - `train_test_split` do `sklearn.model_selection` para dividir os dados em conjuntos de treino e teste.
-   - `LogisticRegression` do `sklearn.linear_model` como modelo de classificação.
-   - `classification_report` e `confusion_matrix` do `sklearn.metrics` para avaliação do modelo.
+   - `seaborn` e `matplotlib.pyplot` para visualização.
+   - `LogisticRegression` como modelo de classificação.
+   - `confusion_matrix` e `classification_report` para avaliação.
 
 2. **Carregamento e Preparação dos Dados**:
-   - Carregamento do conjunto de dados.
-   - Pré-processamento e transformação de variáveis categóricas em variáveis dummy.
+   - Pré-processamento e transformação de variáveis categóricas.
 
-3. **Divisão dos Dados**:
-   - Separação das variáveis independentes (features) e da variável dependente (target).
-   - Divisão dos dados em conjuntos de treino e teste.
-
-4. **Construção e Treinamento do Modelo**:
-   - Instanciação e treinamento de um modelo de Regressão Logística com os dados de treino.
-
-5. **Avaliação do Modelo**:
-   - Geração de previsões com os dados de teste.
-   - Construção da matriz de confusão para avaliar o desempenho do modelo.
-   - Cálculo das métricas de precisão, recall e f1-score utilizando o `classification_report`.
+3. **Treinamento e Avaliação**:
+   - Modelo de Regressão Logística.
+   - Avaliação por matriz de confusão e relatório de classificação.
 
 ---
 
-## 📊 Resultados
+## 📊 Resultado: Matriz de Confusão
 
-- **Matriz de Confusão**:
-  - A matriz de confusão gerada permite visualizar o desempenho do modelo em termos de verdadeiros positivos, falsos positivos, verdadeiros negativos e falsos negativos.
-  - Matriz de confusão gerada:
+Abaixo está a matriz de confusão gerada a partir da predição do modelo:
 
-![alt text](matriz_confusão.png)
-
-- **Métricas de Avaliação**:
-  - As métricas de precisão, recall e f1-score fornecem uma compreensão detalhada sobre a performance do modelo em cada classe.
+<p align="center">
+  <img src="https://github.com/tadeuaugustovs/ML_DIO/blob/master/matriz_de_confusao/matriz_confus%C3%A3o.png?raw=true" width="450px">
+</p>
 
 ---
 
 ## 📂 Organização dos Arquivos
 
-- `matriz_confusao.ipynb`: Notebook Jupyter contendo todo o pipeline do projeto, desde a importação dos dados até a avaliação do modelo.
+- `matriz_confusao.ipynb`: Notebook com todo o pipeline do projeto.
+- `matriz_confusão.png`: Imagem gerada da matriz de confusão.
 
 ---
 
-## 📌 Como Executar o Projeto
+## ▶️ Como Executar
 
 1. Clone este repositório:
    ```bash
