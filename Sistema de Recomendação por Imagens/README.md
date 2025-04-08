@@ -92,8 +92,6 @@ electronic-object-detection/
 ## 👨‍💻 Autor
 
 Projeto desenvolvido por **Tadeu Augusto Vilela da Silva**  
-Com apoio do ChatGPT (OpenAI)  
-Faculdade Multivix Serra · Engenharia da Computação
 
 ---
 
