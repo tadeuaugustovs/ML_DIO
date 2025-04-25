@@ -1,5 +1,5 @@
 apiVersion: backstage.io/v1alpha1
-kind:
+kind: "Teste de conexão"
 metadata:
   name: ML_DIO
   annotations:
