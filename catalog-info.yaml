@@ -6,5 +6,5 @@ metadata:
     github.com/project-slug: tadeuaugustovs/ML_DIO
 spec:
   type: other
-  lifecycle: unknown
-  owner: guests
+  lifecycle: development
+  owner: tadeu
