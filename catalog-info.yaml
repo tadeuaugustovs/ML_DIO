@@ -1,5 +1,5 @@
 apiVersion: backstage.io/v1alpha1
-kind: em-vindo ao meu repositório de projetos desenvolvidos durante o bootcamp Machine Learning Specialist da Digital Innovation One (DIO). Aqui você encontrará soluções práticas utilizando bibliotecas populares de Machine Learning em Python, como Scikit-learn, Pandas, Matplotlib, XGBoost, entre outras.
+kind:  em-vindo ao meu repositório de projetos desenvolvidos durante o bootcamp Machine Learning Specialist da Digital Innovation One (DIO). Aqui você encontrará soluções práticas utilizando bibliotecas populares de Machine Learning em Python, como Scikit-learn, Pandas, Matplotlib, XGBoost, entre outras.
 metadata:
   name: ML_DIO
   annotations:
